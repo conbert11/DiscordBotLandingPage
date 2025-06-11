@@ -5,4 +5,4 @@ This is only the Landing Page. Dashboard, ToS, Imprint and Privacy Policy are no
 https://github.com/conbert11/DiscordBotLandingPage
 
 ## Installation
-```git clone https://github.com/conbert11/DiscordBotLandingPage```
+``git clone https://github.com/conbert11/DiscordBotLandingPage``
